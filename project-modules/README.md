@@ -19,21 +19,17 @@ This page documents the two coursework exercises for recovering the password to 
 7. **Verify the result.** If the tool recovers a candidate, test it by opening your local lab PDF. Record whether it opened and any timing shown by the tool, but do not put the password or hash in this repository.
 8. **Capture evidence.** Add screenshots of the setup, hash-file loading, Johnny session/result, and successful PDF opening (if applicable). Redact the password, full hash, and any unrelated personal information.
 
-### My results
-
-- **PDF tested:** `My Locked PDF1.pdf` (course lab copy)
-- **Result:** `[Record whether the password was recovered; do not include it]`
-- **Tool output/time:** `[Add only if recorded; otherwise write "not recorded"]`
-- **What I learned:** `[Describe what you observed about the workflow and password strength]`
-
 ### Module 1 evidence
 
-Save your redacted screenshots in this folder and add them here. Example filenames:
+<img width="948" height="1000" alt="hash1 extracted" src="https://github.com/user-attachments/assets/f5da9288-288a-42a1-8e14-0f2b87341cf0" />
 
-- `images/module-1-tool-setup.png`
-- `images/module-1-hash-file-redacted.png`
-- `images/module-1-johnny-result-redacted.png`
-- `images/module-1-pdf-verification.png`
+
+<img width="934" height="1064" alt="Johnny password recovered " src="https://github.com/user-attachments/assets/d4346c7d-f5e5-4494-89bc-185c102f223f" />
+
+<img width="947" height="1070" alt="PDF Verification" src="https://github.com/user-attachments/assets/2fb4eb7b-c987-4b93-8ee7-bdc27cc800f0" />
+
+
+
 
 ## Project Module 2: Networkwalks Hash Calculator and Password Cracker
 
@@ -49,20 +45,16 @@ Save your redacted screenshots in this folder and add them here. Example filenam
 6. **Verify the result.** If a candidate is recovered, enter it into your local copy of the lab PDF and confirm whether it opens. Do not publish the candidate password or complete hash.
 7. **Capture evidence.** Add redacted screenshots showing the Hash Calculator, Password Cracker run/result, and PDF verification (if applicable). Hide the full hash and any recovered password before adding screenshots to a public repository.
 
-### My results
-
-- **PDF tested:** `My Locked PDF1.pdf` (course lab copy)
-- **Result:** `[Record whether the password was recovered; do not include it]`
-- **Tool output/time:** `[Add only if recorded; otherwise write "not recorded"]`
-- **What I learned:** `[Compare this browser-based workflow with Module 1]`
 
 ### Module 2 evidence
 
-Save your redacted screenshots in this folder and add them here. Example filenames:
 
-- `images/module-2-hash-calculator-redacted.png`
-- `images/module-2-password-cracker-redacted.png`
-- `images/module-2-pdf-verification.png`
+<img width="726" height="619" alt="hash-calculator-redacted" src="https://github.com/user-attachments/assets/fea71686-f50d-40f1-b27b-ac0bdab2297a" />
+
+<img width="718" height="819" alt="password-cracker-redacted" src="https://github.com/user-attachments/assets/6ec74662-be64-4fc7-b38a-ff33e5c8b1ea" />
+
+<img width="1278" height="1019" alt="pdf-verification" src="https://github.com/user-attachments/assets/3347043b-e3b0-4506-9747-52607735aea8" />
+
 
 ## What the process taught me
 
