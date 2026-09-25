@@ -1,4 +1,4 @@
-# Week 3 Project Modules: PDF Password Recovery
+# Full Research Documentation: PDF Password Recovery
 
 This page documents the two coursework exercises for recovering the password to the provided **My Locked PDF1.pdf** lab file. The steps below follow the Module 1 and Module 2 handouts. Add your own screenshots in the evidence spots after completing each step.
 
