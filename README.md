@@ -1,17 +1,19 @@
 # Week 3: Password Security Labs
 
-This repository is my Week 3 project reflection on password-cracking exercises using **John the Ripper (JTR)** and **NW Tools**. The goal was to understand how password-auditing tools can be used in a controlled lab and what the results teach us about password security.
+This repository is my Week 3 project reflection on password-cracking exercises using industry password-auditing tools, including **John the Ripper (JTR)** and **NW Tools**. The goal was to learn the tools and understand the authorized workflow behind recovering access to a password-protected PDF.
 
 ## What I did
 
 - Worked through **Project Module 1**, focused on password cracking with John the Ripper.
 - Worked through **Project Module 2**, focused on password cracking with NW Tools.
+- Learned how an authorized PDF password-recovery workflow uses a hash representation of the protected file for offline password auditing, then checks a recovered candidate against the PDF.
 - Compared the tools' workflows and noted what the exercises showed about password auditing.
 - Kept the work within the scope of the assigned lab materials.
 
 ## What I learned
 
 - Password-cracking tools can test candidate passwords against password hashes; they do not need the original plaintext password to begin an offline audit.
+- PDF password recovery is generally a process of testing candidate passwords against the file's protection, not reversing its encryption. A matching password can then be used to open the PDF.
 - Weak, common, or predictable passwords are easier to guess. Long, unique passwords make guessing much harder.
 - Different tools can provide different workflows, so it is important to understand the task and the tool before interpreting results.
 - Password-auditing results should be handled carefully because recovered credentials and hashes are sensitive.
