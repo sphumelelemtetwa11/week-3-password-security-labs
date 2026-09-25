@@ -44,6 +44,8 @@ The project explores how password-auditing tools can test candidate passwords ag
 - **Week 3 projects overview:** `z. Week3 Projects v1.pdf`
 - [John the Ripper official website](https://www.openwall.com/john/)
 
+open complete project here https://github.com/sphumelelemtetwa11/week-3-password-security-labs/tree/master/project-modules
+
 The assignment PDFs were provided with the coursework and are not included in this repository. Use the Module 2 handout for the course-specific NW Tools instructions.
 
 ## Safety and privacy
