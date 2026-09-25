@@ -2,6 +2,8 @@
 
 This repository documents my Week 3 password-security project: learning industry password-auditing tools and understanding the authorized process behind recovering access to a password-protected PDF.
 
+## [**Open the complete project here**](project-modules/README.md)
+
 ## Project overview
 
 The project explores how password-auditing tools can test candidate passwords against password-protected PDF data in a controlled lab. It covers the workflow and concepts behind PDF password recovery, compares the assigned tools, and reflects on password strength and responsible handling of recovered information. Testing is limited to files and systems I own or have permission to assess.
