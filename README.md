@@ -41,14 +41,14 @@ The project explores how password-auditing tools can test candidate passwords ag
 
 ## Resources
 
-- **Project Module 1 handout:** `W3-PM1 - Week3 - Project Module1 - Password Cracking with JTR v1.pdf`
-- **Project Module 2 handout:** `W3-PM2 - Week3 - Project Module2 - Password Cracking with NW Tools v1.pdf`
-- **Week 3 projects overview:** `z. Week3 Projects v1.pdf`
 - [John the Ripper official website](https://www.openwall.com/john/)
+- [Johnny Gui for John the Ripper official website](https://openwall.info/wiki/john/johnny/)
+- [Online Hash Crack ](https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php/)
+- [Networkwalks Hash Calculator](https://networkwalks.com/hash-calculator/)
+- [Networkwalks Password Cracker](https://networkwalks.com/password-cracker/)
 
-open complete project here https://github.com/sphumelelemtetwa11/week-3-password-security-labs/tree/master/project-modules
 
-The assignment PDFs were provided with the coursework and are not included in this repository. Use the Module 2 handout for the course-specific NW Tools instructions.
+
 
 ## Safety and privacy
 
