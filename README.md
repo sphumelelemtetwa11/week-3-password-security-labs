@@ -1,6 +1,17 @@
 # Week 3: Password Security Labs
 
-This repository is my Week 3 project reflection on password-cracking exercises using industry password-auditing tools, including **John the Ripper (JTR)** and **NW Tools**. The goal was to learn the tools and understand the authorized workflow behind recovering access to a password-protected PDF.
+This repository documents my Week 3 password-security project: learning industry password-auditing tools and understanding the authorized process behind recovering access to a password-protected PDF.
+
+## Project overview
+
+The project explores how password-auditing tools can test candidate passwords against password-protected PDF data in a controlled lab. It covers the workflow and concepts behind PDF password recovery, compares the assigned tools, and reflects on password strength and responsible handling of recovered information. Testing is limited to files and systems I own or have permission to assess.
+
+## Tools used
+
+| Tool | Project use |
+| --- | --- |
+| John the Ripper (JTR) | Password-auditing tool covered in Project Module 1. |
+| NW Tools | Tool covered in Project Module 2, following the course handout. |
 
 ## What I did
 
@@ -25,6 +36,15 @@ This repository is my Week 3 project reflection on password-cracking exercises u
 | --- | --- |
 | Project Module 1 | Password Cracking with JTR |
 | Project Module 2 | Password Cracking with NW Tools |
+
+## Resources
+
+- **Project Module 1 handout:** `W3-PM1 - Week3 - Project Module1 - Password Cracking with JTR v1.pdf`
+- **Project Module 2 handout:** `W3-PM2 - Week3 - Project Module2 - Password Cracking with NW Tools v1.pdf`
+- **Week 3 projects overview:** `z. Week3 Projects v1.pdf`
+- [John the Ripper official website](https://www.openwall.com/john/)
+
+The assignment PDFs were provided with the coursework and are not included in this repository. Use the Module 2 handout for the course-specific NW Tools instructions.
 
 ## Safety and privacy
 
